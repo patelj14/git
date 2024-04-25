@@ -9,9 +9,11 @@
     * `git add <filename>` then `git commit`
 5. Write a suitable commit message and finalize your commit
 6. 📸 Take a screenshot of your terminal output
+7. ![githomework1 Screenshot #1](https://github.com/patelj14/git/assets/59067883/f85338eb-32da-45ee-8029-868f0551d07e)
 8. Show the commit history
     * `git log`
 9. 📸 Take a screenshot of your terminal output
+![githomework1 Screenshot #2](https://github.com/patelj14/git/assets/59067883/6bbd9345-f604-436f-b899-1d16ac526873)
 
 ### Task 2
 1. Create a new public repository on GitHub
@@ -19,6 +21,7 @@
     * `git remote add origin <url>`
 3. Push your local `githomework1` repository to GitHub
 4. Include your repository URL in your submission
+https://github.com/patelj14/New_Repo
 
 ### Task 3
 1. Create a new branch called `playing-with-bash`
